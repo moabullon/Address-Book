@@ -55,7 +55,4 @@ var myContactList = new ContactList
 
 
 
-// myContactList.find = function (name) {
-//   return this.contacts.filter( (contact) => contact.name.includes(name));
-//
-// }
+
